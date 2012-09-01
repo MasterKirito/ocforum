@@ -1,1 +1,0 @@
-<?php $this->Bbcode->parsebbcode($discussion['Discussion']['body']); ?>

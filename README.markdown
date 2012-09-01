@@ -1,7 +1,12 @@
-OC Forum - forum application for OpenCart
+OC Forum - форум для OpenCart
 ========
-Install
---------
-For install copy the files to the root of the site. After that, install the module as usual OpenCart module
 
-Demo http://demoshop.tvorzasp.com/forum/ (user: demo, password: demo)
+Вышла версия 2 alpha
+---------------------
+Новерсия написана на Yii и есть русский язык. Для понимания как это работает - http://www.yiiframework.ru/ Все предложения и пожелания на horechek@gmail.com
+Демо http://demoshop.tvorzasp.com/forum/ (user: demo, password: demo)
+
+Установка 
+---------
+Для установки скопируйте все в корень. Для создания таблиц бд используйте фаил install.sql
+Настройки бд для форума - forum/protected/config/main.php в секции db
