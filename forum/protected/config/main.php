@@ -87,7 +87,7 @@ return array(
 			'connectionString' => 'mysql:host=localhost;dbname=ocforum',
 			'emulatePrepare' => true,
 			'username' => 'root',
-			'password' => 'password'
+			'password' => 'password',
 			'charset' => 'utf8',
 		),
 		
