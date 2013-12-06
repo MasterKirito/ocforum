@@ -43,7 +43,7 @@ class Customers extends CActiveRecord
 	 */
 	public function tableName()
 	{
-		return 'customer';
+		return '{{customer}}';
 	}
 
 	/**

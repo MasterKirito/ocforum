@@ -32,7 +32,7 @@ class CorePosts extends CActiveRecord
 	 */
 	public function tableName()
 	{
-		return 'core_posts';
+		return '{{core_posts}}';
 	}
 
 	/**

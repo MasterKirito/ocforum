@@ -36,7 +36,7 @@ class Users extends CActiveRecord
 	 */
 	public function tableName()
 	{
-		return 'user';
+		return '{{user}}';
 	}
 
 	/**

@@ -27,7 +27,7 @@ class CoreCategories extends CActiveRecord
 	 */
 	public function tableName()
 	{
-		return 'core_categories';
+		return '{{core_categories}}';
 	}
 
 	/**

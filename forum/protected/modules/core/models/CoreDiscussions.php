@@ -32,7 +32,7 @@ class CoreDiscussions extends CActiveRecord
 	 */
 	public function tableName()
 	{
-		return 'core_discussions';
+		return '{{core_discussions}}';
 	}
 
 	/**
